@@ -1,0 +1,6 @@
+---
+homepage: https://dumbdata.co/
+documentation: https://github.com/Jude-Nwachukwu/gtm-event-cookie-counter
+versions:
+  - sha: b465632b20db587e69822ebbe69d3eed6baf6231
+    changeNotes: Initial release.
