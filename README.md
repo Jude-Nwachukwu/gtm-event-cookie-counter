@@ -1,4 +1,4 @@
-# GTM Event Cookie Counter
+# GTM Event/Pageview Cookie Counter
 
 ## Overview
 The **GTM Cookie Counter** tag template is designed to count and track user interactions, such as pageviews, product page views within a session or across visits. It checks if a cookie exists, increments its value if found, or creates it if missing. Optionally, it pushes an event to the Data Layer upon execution.
