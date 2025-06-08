@@ -4,7 +4,7 @@ documentation: https://github.com/Jude-Nwachukwu/gtm-event-cookie-counter
 versions:
 # LATEST VERSION
   - sha: 3622613481191c3e346f5841bad7b105c7b9a402
-    changeNotes: By default, cookies are now stored using domain: "auto" and path: "/".
+    changeNotes: By default, cookies are now stored using domain: auto and path: /.
 
 #INITIAL VERSION
   - sha: 3e81192bd4e8d04a0b854f2689f4faf06ba70a6e
